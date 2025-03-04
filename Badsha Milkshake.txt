@@ -1,0 +1,15 @@
+		**********Badsha Milkshake**********
+        Id      Item          	Type        	Price    
+---------------------------------------------------------------------------------------------
+<========================Milkshake Items========================> 
+	  401    Classic Vanilla       Milkshake       149
+	  402    Chocolate Fudge       Milkshake       199
+	  403    Strawberry Banana     Milkshake       249
+	  404    Cookies and Cream     Milkshake       299
+	  405    Salted Caramel        Milkshake       349
+	  406    Peanut Butter         Milkshake       399
+	  407    Mint Chocolate Chip   Milkshake       449
+	  408    Coffee                Milkshake       499
+	  409    Nutella               Milkshake       549
+	  410    Berry Blast           Milkshake       599
+---------------------------------------------------------------------------------------------

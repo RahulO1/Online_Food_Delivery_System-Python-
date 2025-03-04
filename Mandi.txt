@@ -1,0 +1,17 @@
+			**********MANDI RESTAURANT**********
+        Id      	Item          	Type        	Price    
+---------------------------------------------------------------------------------------------
+      	<==========================Non-Veg Items==========================>  
+	101    	fried mandi          	Chicken     	399         
+        102    	Faham Mandi          	Chicken         499           
+        103	Juciy mandi   		Chicken		599
+        104    	Tandoori mandi       	Chicken 	699	
+        105    	Mixed mandi        	Chicken 	799
+	<==========================Non-Veg Items===========================> 
+	111    	Fried mandi		Mutton		599
+	112	Faham Mandi		Mutton		699		
+	113	Juciy mandi 		Mutton		799
+	114    	Tandoori mandi		Mutton		899
+	115	Mixed mandi		Mutton		999
+---------------------------------------------------------------------------------------------
+Enter the Id of the item you want to add to cart:

@@ -1,0 +1,30 @@
+		   **********Ram ki Bandi**********
+          Id      Item          	Type        	Price    
+---------------------------------------------------------------------------------------------
+<=========================Veg Items===========================> 
+	  506    Idli                  	Veg         	49
+	  507    Dosa                  	Veg         	79		
+	  508    Puri                  	Veg         	69
+	  509    Vada                  	Veg         	59
+	  510    Upma                  	Veg         	89
+	  511    Masala Dosa           	Veg         	99
+	  512    Masala Vada           	Veg         	79
+	  513    Bonda                 	Veg         	69
+	  514    Bajji                 	Veg         	79
+	  515    Uttapam               	Veg         	99
+	  516    Pongal                	Veg         	89
+	  517    Vegetable Pulao       	Veg         	129
+	  518    Aloo Paratha          	Veg         	119
+	  519    Gobi Paratha          	Veg         	119
+	  520    Paneer Paratha        	Veg         	139
+	  521    Tomato Rice           	Veg         	99
+	  522    Lemon Rice            	Veg         	89
+	  523    Curd Rice             	Veg         	79
+	  524    Bisibele Bath         	Veg         	109
+	  525    Veg Pulao             	Veg         	129
+	  526    Vegetable Biryani     	Veg         	149
+	  527    Vegetable Fried Rice  	Veg         	119
+	  528    Pongal with Chutney   	Veg         	99
+	  529    Khichdi               	Veg         	109
+	  530    Vegetable Khichdi     	Veg         	119
+---------------------------------------------------------------------------------------------

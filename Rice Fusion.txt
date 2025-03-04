@@ -1,0 +1,16 @@
+		   **********Rice Fusion**********
+        Id      Item          	Type        	Price    
+---------------------------------------------------------------------------------------------
+      	<==========================Non-Veg Items==========================>  
+	101    Fried Rice            Chicken     	299         
+        102    Fried Rice            Prawn            	399           
+        103    Chicken Curry         Chicken         	499
+        104    Grilled Chicken       Chicken         	599	
+        105    Chicken Tikka         Chicken         	699
+	<==========================Veg Items===========================> 
+	106    Veg Biryani          	Veg             499
+	107    Vegetable Pulao     	Veg             599		
+	108    Paneer Masala         	Veg            	699
+	109    Vegetable Noodles     	Veg             799
+	110    Veg Manchurian       	Veg             899
+---------------------------------------------------------------------------------------------

@@ -1,0 +1,15 @@
+		  **********Cream Stone**********
+        Id      Item          	Type        	Price    
+---------------------------------------------------------------------------------------------
+ <========================Ice Cream Items=========================> 
+	  301    Vanilla               Ice Cream       149
+	  302    Chocolate             Ice Cream       199
+	  303    Strawberry            Ice Cream       249
+	  304    Mint Chocolate Chip   Ice Cream       299
+	  305    Cookies and Cream     Ice Cream       349
+	  306    Coffee                Ice Cream       399
+	  307    Rocky Road            Ice Cream       449
+	  308    Butter Pecan          Ice Cream       499
+	  309    Mango                 Ice Cream       549
+	  310    Salted Caramel        Ice Cream       599
+---------------------------------------------------------------------------------------------

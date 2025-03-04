@@ -1,0 +1,10 @@
+
+        Id      Item            Type         Price    Rating
+---------------------------------------------------------------------------
+        201     Manchurya       vegg          120     7
+        202     Frid rice       pannir        100     9
+        203     puff            alu curry     30      8
+        204     French fries    spicy         60      7
+        205     Samosa          alu curry     30      9
+----------------------------------------------------------------------------
+Enter the Id of the item you want to add to cart:

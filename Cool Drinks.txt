@@ -1,0 +1,9 @@
+        Id     Item            Price  Rating
+-------------------------------------------------------------------------
+        301    Monster         200    7
+        302    Mountain due    50     8
+        303    cocola          50     9
+        304    String          60     6
+        305    Tea             20     9
+-------------------------------------------------------------------------
+Enter the Id of the item you want to add to cart:

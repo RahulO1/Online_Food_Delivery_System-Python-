@@ -1,0 +1,17 @@
+		      **********HARITHA HOTEL**********
+        Id      Item          	Type        	Price    
+---------------------------------------------------------------------------------------------
+      	<==========================Non-Veg Items==========================>  
+	201    	biryani         Chicken     	399         
+        202    	biryani         Mutton          499           
+        203	Lollipop   	Chicken		599
+        204    	Wings           Chicken 	699	
+        205    	KFC            	Chicken 	799
+	<=========================Veg Items===========================> 
+	206    	Dal rice  	Veg   		599
+	207	Lemon rice	Veg   		699		
+	208	Chapathi  	Veg   		799
+	209    	Noodles	      	Veg    		899
+	210	Manchuriya	Veg   		999
+---------------------------------------------------------------------------------------------
+Enter the Id of the item you want to add to cart:
